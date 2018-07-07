@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Gilbor",
-            "email": "gilborcamporazojr@programmer.net"
+            "email": "gilborcamporazojr@programmer.net",
+            "role": "Developer"
         }
     ],
     "keywords": [
