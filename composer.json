@@ -1,0 +1,22 @@
+{
+    "name": "gibocode/laravel-ui",
+    "description": "A user interface that can be used for both frontend and backend development using Laravel.",
+    "license": "MIT",
+    "homepage": "https://github.com/gibocode/laravel-ui",
+    "authors": [
+        {
+            "name": "Gilbor",
+            "email": "gilborcamporazojr@programmer.net"
+        }
+    ],
+    "keywords": [
+        "laravel",
+        "ui",
+        "design",
+        "frontend",
+        "admin",
+        "backend",
+        "gibocode"
+    ],
+    "minimum-stability": "dev"
+}
