@@ -19,5 +19,5 @@
         "backend",
         "gibocode"
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
