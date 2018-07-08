@@ -19,5 +19,17 @@
         "backend",
         "gibocode"
     ],
-    "minimum-stability": "dev"
+    "autoload": {
+        "psr-0": {
+            "Gibocode\\LaravelUI\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gibocode\\LaravelUI\\Providers\\LaravelUIServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
 }
